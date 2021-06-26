@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scott</string>
+    <string name="search">查询订单</string>
+    <string name="get_hint">输入订单号</string>
+    <string name="finished">已完成的订单</string>
+    <string name="transing">运送中的订单</string>
+    <string name="allover">所有订单</string>
+    <string name="random">开始随机</string>
+    <string name="eating">吃这个</string>
+    <string name="accept">接受</string>
+    <string name="reject">换一个</string>
+    <string name="不吃了真的">noo</string>
+    <string name="label_open_list">OpenList</string>
+</resources>

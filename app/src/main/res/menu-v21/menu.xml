@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_set"
+        android:icon="@android:drawable/star_big_on"
+        android:title="list"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/open_list"
+        android:icon="?android:attr/actionModeWebSearchDrawable"
+        android:title="@string/不吃了真的"
+        app:showAsAction="always" />
+</menu>
